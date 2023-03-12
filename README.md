@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering with a concentration in Software Engineering**.
+🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering**.
 
 🌱 I am currently learning **Python/C++** and also interested in **Machine Learning/Data Science/Artificial intelligence**.
 
