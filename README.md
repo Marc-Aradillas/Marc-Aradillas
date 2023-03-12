@@ -30,12 +30,6 @@ Here are some ideas to get you started:
 🎯 My Goal is to Contribute to as many **open source project** as possible, but mostly focus on my personal projects.
 
 ✨ I love to create different types of **contents**.
-
-      
-<td >
-    
-  </tr>
-  </table>
  
 ## Connect With Me👋🏼
 
