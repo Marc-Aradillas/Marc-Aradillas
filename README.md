@@ -25,11 +25,11 @@ Here are some ideas to get you started:
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering**.
 
-🌱 I am currently learning **Python/C++** and also interested in **Machine Learning/Data Science/Artificial intelligence**.
+🌱 I am currently learning **Python/C++** and also interested in **Machine Learning/Data Science/Artificial Intelligence**.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible, but mostly focus on my personal projects.
 
-✨ I love to create different types of **contents**.
+✨ I like to dive into the latest trending Tech topics and become well versed and informed on emerging technologies.
  
 ## Connect With Me👋🏼
 
