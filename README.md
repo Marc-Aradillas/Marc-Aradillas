@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, My name is Marc Aradillas 👋🏼
+# Hi, My name is Marc Anthony Aradillas 👋🏼
 
 ## About Me🧑🏼‍💻
 
