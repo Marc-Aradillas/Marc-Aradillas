@@ -31,7 +31,6 @@ Here are some ideas to get you started:
  
 ## Connect With Me👋🏼
 
-<p align="North"> 
 <p align="left">  
 <a href="https://twitter.com/Wondergrooves2s" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
 <a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
@@ -43,7 +42,10 @@ Here are some ideas to get you started:
 
 ### Languages✍🏼
 
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src= "(https://icons8.com/icon/J0SgMWzAxqFj/jupyter)"/_> 
+
 
 ### DevOps & Cloud Tools⚒️
 
