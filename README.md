@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  
 ## Connect With Me👋🏼
 
+<p align="North"> 
 <p align="left">  
 <a href="https://twitter.com/Wondergrooves2s" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
 <a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
