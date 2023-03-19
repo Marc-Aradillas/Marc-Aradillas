@@ -56,6 +56,6 @@ TBD
 
 TBD
 
-<table>
+## Profile Activity 👾
       
 ![](profile-3d-contrib/profile-night-green.svg)
