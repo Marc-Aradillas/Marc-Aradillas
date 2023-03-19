@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### Machine Learning Franeworks APIs
 
-<img src="https://img.icons8.com/color/48/null/tensorflow.png"/> <a target="_blank" href="https://icons8.com/icon/dg2eH8kb6Tow/k">K icon by Icons8</a>
+<img src="https://img.icons8.com/color/48/null/tensorflow.png"/> <img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-K-qwerty-keypad-others-inmotus-design-3.png"/>
 
 ### DevOps & Cloud Tools⚒️
 
