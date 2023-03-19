@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src=![image](https://user-images.githubusercontent.com/106922826/226161049-e9b2c5e1-51f8-4919-b0cb-30d3376a27e2.png)/> <img src="https://img.icons8.com/fluency/28/null/jupyter.png"/>
+<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src=![image](https://user-images.githubusercontent.com/106922826/226161049-e9b2c5e1-51f8-4919-b0cb-30d3376a27e2.png)/> <img src="https://img.icons8.com/fluency/35/null/jupyter.png"/>
 
 
 
