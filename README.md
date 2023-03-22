@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering learning C++, Java, etc.**.
 
-🌱 I am currently learning **Python/C++** and also interested in **Machine Learning/Data Science/Artificial Intelligence**.
+🌱 I am currently learning **Python/C++** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible, but mostly focus on my personal projects.
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src=![image](https://user-images.githubusercontent.com/106922826/226161049-e9b2c5e1-51f8-4919-b0cb-30d3376a27e2.png)/> <img src="https://img.icons8.com/fluency/35/null/jupyter.png"/> <img src="https://img.icons8.com/clouds/35/null/python.png"/>
 
-### Machine Learning Franeworks APIs
+### Machine Learning Frameworks APIs
 
 <img src="https://img.icons8.com/color/35/null/tensorflow.png"/> <img src="https://img.icons8.com/external-others-inmotus-design/35/000000/external-K-qwerty-keypad-others-inmotus-design-3.png"/>
 
