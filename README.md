@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering learning C++, Java, etc.**..
 
-🌱 I am currently learning **Python/C++** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
+🌱 I am currently learning **Python/C++/unsupervised Learning**and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible, but mostly focus on my personal projects.
 
