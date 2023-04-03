@@ -52,8 +52,7 @@ Here are some ideas to get you started:
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="![vscode+icons+type+maven-1324451386617447973 (2)](https://user-images.githubusercontent.com/106922826/229426073-046ed87a-f8d8-4bf0-bf18-d801fdd75c8e.png)
-"/>
+<img src="C:\Users\Marc Aradillas\Dropbox\My PC (DESKTOP-6ACMU2N)\Downloads"/>
 
 ## My Experiences🙌🏼
 
