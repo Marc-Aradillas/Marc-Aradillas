@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_maven_icon_130397.png"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png"/>
 
 ## My Experiences🙌🏼
 
