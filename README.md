@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University Online
+🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University Online and partaking in a Cohort in a Data Science Program at Code Up LLC.
 
 🌱 I am currently learning **Python/C++/Java/HTML/CSS** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
 
