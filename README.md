@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ## My Experiences🙌🏼
 
-Class Project found in my Respositories
+Class Projects found in my Respositories
 
 
 
