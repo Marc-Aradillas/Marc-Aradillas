@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University Online and partaking in a Cohort in a Data Science Program at Code Up LLC.
 
-🌱 I am currently learning **Python/C++/Java/HTML/CSS** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
+🌱 I am currently learning **Data Science/Python/C++/Java/HTML/CSS** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible, but mostly focus on my personal projects.
 
