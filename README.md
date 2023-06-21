@@ -39,7 +39,7 @@ Not only will I gain expertise in building predictive models and designing exper
 
 Through my data science journey at Codeup, I aim to become a trusted ally to individuals, organizations, and researchers seeking data-driven insights. I want to make a tangible impact by leveraging the power of data and machine learning to drive innovation, solve problems, and contribute to the greater good. 🌍✨
 
-I am excited to continue on this thrilling adventure! where i will learn to unlock the vast potential of data science and shape a smarter, more data-driven future with my cohorts. 🎢🌌
+I am excited to continue on this thrilling adventure! where I will learn to unlock the vast potential of data science and shape a smarter, more data-driven future along with my fellow cohorts. 🎢🌌
 
   </table>
 
