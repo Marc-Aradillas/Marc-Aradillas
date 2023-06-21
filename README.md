@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png"/>
 <img src="https://img.icons8.com/fluency/35/null/jupyter.png"/>
+
 ## My Experiences🙌🏼
 
 Class Projects found in my Respositories
