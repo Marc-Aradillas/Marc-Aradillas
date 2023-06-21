@@ -26,9 +26,9 @@ From predicting customer behavior to optimizing business strategies, data scienc
 That's precisely why I've chosen Codeup as the launchpad for my data science expedition! 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=500&name=OfficialCodeupLogoSmall.png">
-     <source media="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=500&name=OfficialCodeupLogoSmall.png">
-     <img alt="Code up banner" src="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=500&name=OfficialCodeupLogoSmall.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
+     <source media="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
+     <img alt="Code up banner" src="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
   </picture>
 
 Codeup is a renowned institution that provides an immersive and rigorous curriculum, equipping me with the technical skills and practical experience needed to thrive in the data-driven world. 🚀💻
