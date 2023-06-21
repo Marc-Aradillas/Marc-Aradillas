@@ -51,7 +51,7 @@ I am excited to continue on this thrilling adventure! where i will learn to unlo
 
 🌱 I am currently learning **Data Science/Python/C++/Java/HTML/CSS** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
 
-🎯 My Goal is to Contribute to as many **open source project** as possible, but mostly focus on my personal projects.
+🎯 My Goal is to Contribute to as many **open source projects** as possible, but mostly focus on my personal projects.
 
 ✨ I like to dive into the latest trending Tech topics and become well versed and informed on emerging technologies.
  
