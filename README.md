@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, My name is Marc Anthony Aradillas 👋🏼
+# Hi, My name is Marc Anthony Aradillas 👋🏼     
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.codeup.com%2Fhs-fs%2Fhubfs%2FOfficialCodeupLogoSmall.png%3Fwidth%3D726%26name%3DOfficialCodeupLogoSmall.png&tbnid=x4Hw8YcqEaKg-M&vet=12ahUKEwimxYb769T_AhXILN4AHdA1AD4QMygAegUIARC2AQ..i&imgrefurl=https%3A%2F%2Fblog.codeup.com%2F&docid=SQDmtXrmZNmwiM&w=726&h=339&itg=1&q=code%20up%20png&ved=2ahUKEwimxYb769T_AhXILN4AHdA1AD4QMygAegUIARC2AQ">
+     <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.codeup.com%2Fhs-fs%2Fhubfs%2FOfficialCodeupLogoSmall.png%3Fwidth%3D726%26name%3DOfficialCodeupLogoSmall.png&tbnid=x4Hw8YcqEaKg-M&vet=12ahUKEwimxYb769T_AhXILN4AHdA1AD4QMygAegUIARC2AQ..i&imgrefurl=https%3A%2F%2Fblog.codeup.com%2F&docid=SQDmtXrmZNmwiM&w=726&h=339&itg=1&q=code%20up%20png&ved=2ahUKEwimxYb769T_AhXILN4AHdA1AD4QMygAegUIARC2AQ">
+     <img alt="Code up banner" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.codeup.com%2Fhs-fs%2Fhubfs%2FOfficialCodeupLogoSmall.png%3Fwidth%3D726%26name%3DOfficialCodeupLogoSmall.png&tbnid=x4Hw8YcqEaKg-M&vet=12ahUKEwimxYb769T_AhXILN4AHdA1AD4QMygAegUIARC2AQ..i&imgrefurl=https%3A%2F%2Fblog.codeup.com%2F&docid=SQDmtXrmZNmwiM&w=726&h=339&itg=1&q=code%20up%20png&ved=2ahUKEwimxYb769T_AhXILN4AHdA1AD4QMygAegUIARC2AQ">
+  </picture>
 
 ## About Me🧑🏼‍💻
 
