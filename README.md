@@ -47,7 +47,7 @@ I am excited to continue on this thrilling adventure! where I will learn to unlo
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University Online and partaking in a Cohort in a Data Science Program at Codeup.
+🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering** at **Southern New Hampshire University** Online and partaking in a Cohort in a Data Science Program at **Codeup**.
 
 🌱 I am currently learning **Data Science/Python/C++/Java/HTML/CSS** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
 
