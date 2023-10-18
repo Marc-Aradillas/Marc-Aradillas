@@ -59,8 +59,9 @@ I am excited to continue on this thrilling adventure! where I will learn to unlo
 
 <p align="left">  
 <a href="https://twitter.com/Wondergrooves2s" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/manthonytx/?hl=en" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+[![LinkedIn Badge](li_badge.png)](https://www.linkedin.com/in/marc-aradillas)
+
 
 </p>
     
