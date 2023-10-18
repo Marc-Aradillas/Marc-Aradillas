@@ -17,51 +17,21 @@ Here are some ideas to get you started:
 
 ## About Me🧑🏼‍💻
 
-<table>
+I'm passionate about data science, and I'm on a journey to uncover insights hidden within data. My background spans data analysis, programming, and machine learning, and I'm currently enhancing my skills in the data science domain. 
 
-I am interested in Data science and to me it's like a treasure hunt, where I get to uncover valuable insights hidden within vast oceans of data. It empowers me to extract meaning from complex information, unveil patterns, and make predictions that can shape the future. 🗺️💡
+🎓 I'm pursuing a Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University.
 
-From predicting customer behavior to optimizing business strategies, data science offers incredible opportunities for transformative discoveries and informed decision-making. Its interdisciplinary nature, blending mathematics, statistics, programming, and domain expertise, truly fascinates me. 🌐🔍
+🌱 I'm learning Data Science, Python, C++, Java, HTML, and CSS, and I'm keen on Machine Learning, Data Science, Artificial Intelligence, and Computer Vision.
 
-That's precisely why I've chosen Codeup as the launchpad for my data science expedition! 
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
-     <source media="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
-     <img alt="Code up banner" src="https://blog.codeup.com/hs-fs/hubfs/OfficialCodeupLogoSmall.png?width=250&name=OfficialCodeupLogoSmall.png">
-  </picture>
-
-Codeup is a renowned institution that provides an immersive and rigorous curriculum, equipping me with the technical skills and practical experience needed to thrive in the data-driven world. 🚀💻
-
-During my studies at Codeup, I will be diving deep into the realm of data science, mastering the fundamentals of statistical analysis, machine learning, and data visualization. I'll learn to wield powerful programming languages such as Python and R, gaining the ability to manipulate and transform data to unveil its underlying stories. 📊🔬
-
-Not only will I gain expertise in building predictive models and designing experiments, but I'll also develop the critical thinking and problem-solving mindset necessary to tackle real-world challenges head-on. I'll collaborate with a vibrant community of fellow learners, engage in stimulating projects, and continuously refine my skills through hands-on experiences. 💪🌱
-
-Through my data science journey at Codeup, I aim to become a trusted ally to individuals, organizations, and researchers seeking data-driven insights. I want to make a tangible impact by leveraging the power of data and machine learning to drive innovation, solve problems, and contribute to the greater good. 🌍✨
-
-I am excited to continue on this thrilling adventure! where I will learn to unlock the vast potential of data science and shape a smarter, more data-driven future along with my fellow cohorts. 🎢🌌
-
-  </table>
-
-<table>
-  <tr>
-    <td valign="center">
-      
-🎓 I am currently pursuing my **Bachelor's in Computer Science with a concentration in Software Engineering** at **Southern New Hampshire University** Online and partaking in a Cohort in a Data Science Program at **Codeup**.
-
-🌱 I am currently learning **Data Science/Python/C++/Java/HTML/CSS** and also interested in **Machine Learning/Data Science/Artificial Intelligence/Computer Vision**.
-
-🎯 My Goal is to Contribute to as many **open source projects** as possible, but mostly focus on my personal projects.
-
-✨ I like to dive into the latest trending Tech topics and become well versed and informed on emerging technologies.
+✨ My goal is to contribute to open source projects and work on personal projects that align with my interests.
  
 ## Connect With Me👋🏼
 
 <p align="left">  
 <a href="https://twitter.com/Wondergrooves2s" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
 <a href="https://www.instagram.com/manthonytx/?hl=en" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/?size=35&id=108812&format=png"/></a>
 </p>
-<a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/?size=80&id=108812&format=png"/></a>
 
 [![LinkedIn Badge](https://github.com/Marc-Aradillas/Marc-Aradillas/assets/106922826/0f056abc-68c2-4ab8-bbad-f8ba37c136e3)](https://www.linkedin.com/in/marc-aradillas)
 
@@ -72,7 +42,8 @@ I am excited to continue on this thrilling adventure! where I will learn to unlo
 
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src=![image](https://user-images.githubusercontent.com/106922826/226161049-e9b2c5e1-51f8-4919-b0cb-30d3376a27e2.png)/> <img src="https://img.icons8.com/clouds/35/null/python.png"/>
+<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src=![image](https://user-images.githubusercontent.com/106922826/226161049-e9b2c5e1-51f8-4919-b0cb-30d3376a27e2.png)/> 
+<img src="https://img.icons8.com/clouds/35/null/python.png"/>
 
 ### Machine Learning Frameworks APIs
 
@@ -80,13 +51,13 @@ I am excited to continue on this thrilling adventure! where I will learn to unlo
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png"/>
-<img src="https://img.icons8.com/fluency/35/null/jupyter.png"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png"/> <img src="https://img.icons8.com/fluency/35/null/jupyter.png"/>
 
 ## My Experiences🙌🏼
 
-Class Projects found in my Respositories
-
+- Clustering Analyis implementing Logistic Regression Modeling to identify variables that drive wine quality
+- Anomaly Detection using Probalistic Methods with Matplotlib visualization to display anomoulos activity looking at Codeups access log to their website/curriculums
+- Individual Project That aims to Predict The Monthly Closing price for Tesla Company Stock (Data Science Pipeline work on a Volatile Stock)
 
 
 ## Profile Activity 👾
