@@ -33,7 +33,7 @@ I'm passionate about data science, and I'm on a journey to uncover insights hidd
 <a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/?size=35&id=108812&format=png"/></a>
 </p>
 
-[![LinkedIn Badge](https://github.com/Marc-Aradillas/Marc-Aradillas/assets/106922826/0f056abc-68c2-4ab8-bbad-f8ba37c136e3)](https://www.linkedin.com/in/marc-aradillas)
+<!-- [![LinkedIn Badge](https://github.com/Marc-Aradillas/Marc-Aradillas/assets/106922826/0f056abc-68c2-4ab8-bbad-f8ba37c136e3)](https://www.linkedin.com/in/marc-aradillas) -->
 
 
 ## Technologies⚙️
