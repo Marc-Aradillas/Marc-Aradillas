@@ -46,7 +46,7 @@ I'm passionate about data science, and I'm on a journey to uncover insights hidd
 
 ### Machine Learning Frameworks APIs
 
-<img src="https://img.icons8.com/color/35/null/tensorflow.png"/> <img src="https://img.icons8.com/external-others-inmotus-design/35/000000/external-K-qwerty-keypad-others-inmotus-design-3.png"/>
+<img src="https://img.icons8.com/color/35/null/tensorflow.png"/>
 
 ### DevOps & Cloud Tools⚒️
 
