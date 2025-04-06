@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me🧑🏼‍💻
 
-I'm passionate about data science, and I'm on a journey to uncover insights hidden within data. My background spans data analysis, programming, and machine learning, and I'm currently enhancing my skills in the data science domain. 
+I'm passionate about data science, and I'm on a journey to uncover insights hidden within data. My background spans data analysis and programming. I'm currently enhancing my skills in the data science/analytics domain and looking to also explore web development. 
 
 🎓 I'm pursuing a Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University.
 
