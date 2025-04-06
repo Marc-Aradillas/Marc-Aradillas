@@ -28,7 +28,6 @@ I'm passionate about data science, and I'm on a journey to uncover insights hidd
 ## Connect With Me👋🏼
 
 <p align="left">  
-<a href="https://twitter.com/Wondergrooves2s" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
 <a href="https://www.instagram.com/manthonytx/?hl=en" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 <a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/?size=35&id=108812&format=png"/></a>
 </p>
