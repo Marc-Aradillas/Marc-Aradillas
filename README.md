@@ -21,7 +21,7 @@ I'm passionate about data science, and I'm on a journey to uncover insights hidd
 
 🎓 I'm pursuing a Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University.
 
-🌱 I'm learning Data Science, Python, C++, Java, HTML, and CSS, and I'm keen on Machine Learning, Data Science, Artificial Intelligence, and Computer Vision.
+🌱 I'm learning secure coding with C++ and full stack development currently using the MEAN (MongoDB, Express.js, Angular, and Node.js) stack.
 
 ✨ My goal is to contribute to open source projects and work on personal projects that align with my interests.
  
@@ -53,7 +53,7 @@ I'm passionate about data science, and I'm on a journey to uncover insights hidd
 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png"/> <img src="https://img.icons8.com/fluency/35/null/jupyter.png"/>
 
-## My Experiences🙌🏼
+## My Experiences🙌🏼 (All Academic)
 
 - Clustering Analyis implementing Logistic Regression Modeling to identify variables that drive wine quality
 - Anomaly Detection using Probalistic Methods with Matplotlib visualization to display anomoulos activity looking at Codeups access log to their website/curriculums
