@@ -1,64 +1,81 @@
-<!--
-**Marc-Aradillas/Marc-Aradillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋🏼 Hi, I'm Marc Anthony Aradillas  
 
-Here are some ideas to get you started:
+Cloud Engineer | Data & Analytics Engineering | Software Developer  
+U.S. Air Force Veteran | B.S. Computer Science (Software Engineering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a technologist with experience in cloud operations (AWS), data engineering pipelines, analytics workflows, and applied machine learning. I enjoy solving complex problems, building clean and reliable systems, and turning raw data into something meaningful.
 
-# Hi, My name is Marc Anthony Aradillas 👋🏼     
+My background includes:
+- Cloud engineering (AWS EC2, S3, RDS, IAM, SSM, automation)
+- Data engineering & analytics using Python, SQL, and ETL pipelines
+- Machine learning and NLP projects built end-to-end
+- Software engineering foundations (OOP, web apps, secure coding, Git)
+- Military discipline, leadership, and mission-critical operations
 
-## About Me🧑🏼‍💻
+I am actively expanding into **Analytics Engineering** and **Data Engineering**, including Palantir Foundry concepts, modern pipelines, and scalable data systems.
 
-I'm passionate about data science, and I'm on a journey to uncover insights hidden within data. My background spans data analysis and programming. I'm currently enhancing my skills in the data science/analytics domain and looking to also explore web development. 
+---
 
-🎓 I'm pursuing a Bachelor's in Computer Science with a concentration in Software Engineering at Southern New Hampshire University.
+## 🔧 Technologies & Tools
 
-🌱 I'm learning secure coding with C++ and full stack development currently using the MEAN (MongoDB, Express.js, Angular, and Node.js) stack.
+### **Languages & Scripting**
+Python • SQL • C • C++ • JavaScript • Bash
 
-✨ My goal is to contribute to open source projects and work on personal projects that align with my interests.
- 
-## Connect With Me👋🏼
+### **Data / ML**
+Pandas • NumPy • Scikit-Learn • NLP (NLTK / spaCy) • Matplotlib • Seaborn
 
-<p align="left">  
-<a href="https://www.instagram.com/manthonytx/?hl=en" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-<a href="https://www.linkedin.com/in/marc-aradillas/" target="blank"><img src="https://img.icons8.com/?size=35&id=108812&format=png"/></a>
-</p>
+### **Cloud & DevOps**
+AWS (EC2, S3, IAM, SSM) • Linux • Git/GitHub • Containers • CI/CD foundations
 
-<!-- [![LinkedIn Badge](https://github.com/Marc-Aradillas/Marc-Aradillas/assets/106922826/0f056abc-68c2-4ab8-bbad-f8ba37c136e3)](https://www.linkedin.com/in/marc-aradillas) -->
+### **Analytics / Engineering**
+ETL Pipelines • Data Modeling • Jupyter • APIs • JSON/XML • Automation
 
+---
 
-## Technologies⚙️
+## 📌 Featured Projects
 
-### Languages✍🏼
+### 🔹 **1. GitHub Language Prediction (NLP Project)**
+Machine learning model that predicts the primary programming language of GitHub repos using web-scraped text and NLP.
+- Python • Pandas • NLP • ML • BeautifulSoup
+- Identifies tech stacks using regex + TF-IDF + classification  
 
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src=![image](https://user-images.githubusercontent.com/106922826/226161049-e9b2c5e1-51f8-4919-b0cb-30d3376a27e2.png)/> 
-<img src="https://img.icons8.com/clouds/35/null/python.png"/>
+➡️ *Useful to show you can build ML + pipelines end-to-end.*
 
-### Machine Learning Frameworks APIs
+---
 
-<img src="https://img.icons8.com/color/35/null/tensorflow.png"/>
+### 🔹 **2. Restaurant Inspection Score Prediction (NYC Open Data)**
+Forecasts restaurant health inspection results using ML and sentiment extraction from violations.
+- EDA, cleaning, NLP, XGBoost  
+- Demonstrates strong applied DS + data engineering
 
-### DevOps & Cloud Tools⚒️
+---
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png"/> <img src="https://img.icons8.com/fluency/35/null/jupyter.png"/>
+### 🔹 **3. Tesla Stock Price Prediction (Time Series)**
+Full ML workflow predicting monthly TSLA closing prices.
+- ARIMA-like pipeline • Visualization • Feature engineering
 
-## My Experiences🙌🏼 (All Academic)
+---
 
-- Clustering Analyis implementing Logistic Regression Modeling to identify variables that drive wine quality
-- Anomaly Detection using Probalistic Methods with Matplotlib visualization to display anomoulos activity looking at Codeups access log to their website/curriculums
-- Individual Project That aims to Predict The Monthly Closing price for Tesla Company Stock (Data Science Pipeline work on a Volatile Stock)
+### 🔹 **4. Treasure Hunt Reinforcement Learning Agent**
+Solves a grid-based environment using RL concepts.
 
+---
 
-## Profile Activity 👾
-      
-![](profile-3d-contrib/profile-night-green.svg)
+### 🔹 **5. System Analysis & Design (DriverPass Project)**
+UML diagrams, system architecture, and process flows.
+
+---
+
+## 🎯 What I'm Learning Now
+- Data engineering workflows (ETL, modeling, orchestration)
+- Palantir Foundry concepts (Ontologies, Code Workbooks, Pipeline orchestration)
+- Advanced Python engineering practices
+- Cloud automation + infrastructure concepts
+
+---
+
+## 📫 Connect With Me  
+📍 Dallas–Fort Worth  
+LinkedIn: https://www.linkedin.com/in/marc-aradillas  
+Email: aradillasm@gmail.com  
+
