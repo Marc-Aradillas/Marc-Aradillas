@@ -79,3 +79,9 @@ UML diagrams, system architecture, and process flows.
 LinkedIn: https://www.linkedin.com/in/marc-aradillas  
 Email: aradillasm@gmail.com  
 
+---
+
+## Profile Activity
+      
+![](profile-3d-contrib/profile-gitblock.svg)
+
